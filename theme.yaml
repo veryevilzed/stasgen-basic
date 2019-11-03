@@ -1,0 +1,21 @@
+# theme.yaml template for a Stasgen theme
+# see http:// to example
+
+name: "Basic"
+description: Theme Basic
+license: MIT
+licenseLink: https://github.com/veryevilzed/stasgen-basic/blob/master/LICENSE.md
+homepage: https://github.com/veryevilzed/stasgen-basic/
+tags: ["basic"]
+features: []
+min_version: 0.1
+
+author:
+    name: "Dmitry Vyscohin"
+    homepage: https://github.com/veryevilzed/
+
+# If porting an existing theme
+original:
+    name: ""
+    homepage: ""
+    repo: ""
